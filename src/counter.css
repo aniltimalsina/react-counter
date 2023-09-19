@@ -1,0 +1,11 @@
+.container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  place-items: center;
+  padding-top: 15rem;
+}
+
+.sign {
+  margin: 40px;
+}
